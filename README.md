@@ -1,3 +1,5 @@
+# E-Commerce Business Analysis
+
 Description
 
 This project aims to support the Analytics team at an E-Commerce company in generating valuable insights from data analytics. Additionally, it focuses on developing tailored dashboards for various audiences, including senior business leaders and on-ground sales teams. These insights and dashboards enable senior leaders to monitor key performance indicators, track business trends over time, and analyze performance against budget. For the sales team, these tools help identify key business drivers and develop strategies to enhance sales and overall business performance.
