@@ -114,4 +114,6 @@ The data is sourced from an e-commerce company.
 
 - **Gender-Based Purchase Patterns**: Both genders showed similar purchasing patterns across different categories and sub-categories, except for slight differences in the Clothing category.
 
-**Note**: For Detailed insights please visit the code and visualizations document.
+**Note**: 
+    1. For Detailed insights please visit the code and visualizations documents available in folders.
+    2. Added visualization as PDF for ease of access
